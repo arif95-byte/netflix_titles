@@ -1,4 +1,4 @@
-# Netflix Titles
+# Netflix Analysis
 # Tools Used: Excel.
 # This analysis is about which kind of content is popular on netflix.
 * Not limited to these questions which is:
